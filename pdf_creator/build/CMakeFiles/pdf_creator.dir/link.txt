@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/pdf_creator.dir/main.cpp.o -o pdf_creator  -lhpdf -lm 

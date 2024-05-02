@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/harrymok/pdf_creator/build",
+  "command": "/usr/bin/g++   -g -o CMakeFiles/pdf_creator.dir/main.cpp.o -c /home/harrymok/pdf_creator/main.cpp",
+  "file": "/home/harrymok/pdf_creator/main.cpp"
+}
+]
